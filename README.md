@@ -10,5 +10,7 @@ Details can be taken from this link https://omdena.com/projects/energy-resources
 # The Approach
 Handover Foldername : Description about what information each folder provides
 
+#Pipeline
+
 # Future Roadmap
 
